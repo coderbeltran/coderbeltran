@@ -57,6 +57,13 @@
 
   
 </a>
+
 </p>
+
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
+  <a href="https://github.com/coderbeltran">
+    <img src="https://github-readme-stats.vercel.app/api?username=coderbeltran&show_icons=true&theme=radical" alt="GitHub stats">
+  </a>
+</div>
 
 
