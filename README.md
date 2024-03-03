@@ -3,7 +3,7 @@
 </div>
 
 <h2> / Sobre mí /</h2>
-⭐ Desarrollador backend con Java y Spring Boot
-💻 Especializado en APIs REST y SQL Server
-🌐 Experiencia en desarrollo web con Angular
-🎓 Apasionado por el aprendizaje y el crecimiento profesional.
+- ⭐ Desarrollador backend con Java y Spring Boot
+- 💻 Especializado en APIs REST y SQL Server
+- 🌐 Experiencia en desarrollo web con Angular
+- 🎓 Apasionado por el aprendizaje y el crecimiento profesional.
