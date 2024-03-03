@@ -49,10 +49,9 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-
-
-<div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
+<p align="center">
+<a href="https://github.com/coderbeltran">
+  <div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
   <a href="https://github.com/coderbeltran">
     <img src="https://github-readme-stats.vercel.app/api?username=coderbeltran&show_icons=true&theme=radical" alt="GitHub stats">
   </a>
@@ -62,14 +61,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderbeltran&layout=compact" alt="Top Languages">
   </a>
 </div>
+</a>
+</p>
 
-### ⚙️Repositorios
 
-<div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
-  <a href="https://github.com/coderbeltran?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=coderbeltran&show_icons=true&count_private=true&hide=prs,issues,contribs" alt="Repos">
-  </a>
-</div>
+
+
+
 
 
 
