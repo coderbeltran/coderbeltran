@@ -13,6 +13,7 @@
 🎓 Apasionado por el aprendizaje y el crecimiento profesional.
 
 <h2> / Redes Sociales /</h2>
+
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
 [![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/eduardofierropro)
