@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://beltran-puma.com">Beltran Puma</a> 👋</h1>
-  <img src="https://ibb.co/1L0BnKm">
+  <a href="https://ibb.co/1L0BnKm"><img src="https://i.ibb.co/vHcfBmj/1.png" alt="1" border="0" /></a>
 </div>
 
 
