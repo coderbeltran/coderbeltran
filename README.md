@@ -9,35 +9,50 @@
   // Texto que deseas mostrar
   
   var text = "Hola, soy Beltran Puma";
+  
 
   // Tiempo de espera antes de comenzar a escribir
   
   var delay = 1000;
+  
 
   // Tiempo entre cada letra (en milisegundos)
   
   var speed = 100;
+  
 
   // Función para animar el texto
   
   function typeWriter(text, i, fnCallback) {
+    
     if (i < text.length) {
+      
       document.getElementById("typed-text").innerHTML += text.charAt(i);
+      
       setTimeout(function () {
+        
         typeWriter(text, i + 1, fnCallback);
+        
       }, speed);
     } else if (typeof fnCallback == "function") {
+      
       setTimeout(fnCallback, delay);
+      
     }
   }
 
   // Iniciar la animación
   
   function startTextAnimation(i) {
+    
     if (typeof text === "undefined") return;
+    
     if (i < text.length) {
+      
       typeWriter(text, 0, function () {
+        
         startTextAnimation(i);
+        
       });
     }
   }
@@ -45,8 +60,11 @@
   // Iniciar la animación cuando la página esté cargada
   
   document.addEventListener("DOMContentLoaded", function () {
+    
     if (text) {
+      
       startTextAnimation(0);
+      
     }
   });
 </script>
