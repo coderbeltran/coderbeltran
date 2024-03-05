@@ -31,7 +31,6 @@
 <h2> / Habilidades /</h2>
 
 #### Lenguajes de Programación:
-https://img.shields.io/open-vsx/dt/:namespace/:extension
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
