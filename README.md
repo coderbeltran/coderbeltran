@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <a href="https://ibb.co/1L0BnKm">
-    <img src="https://i.ibb.co/vHcfBmj/1.png" alt="Imagen" style="border-radius: 10px; width: 150px;" />
+    <img src="https://i.ibb.co/vHcfBmj/1.png" alt="Imagen" style="border-radius: 10px; width: 250px;" />
   </a>
 </div>
 
